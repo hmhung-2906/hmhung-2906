@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/hmh2906/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="40" width="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+  <a href="[https://instagram.com/_._.adam._](https://www.instagram.com/hmh2906/)" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="40" width="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
    <a href = "mailto: minhhung.longan.2001@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="40" /></a>
